@@ -7,3 +7,4 @@
 5. [CRUD Knex](./knex_crud/ReadMe.md)
 6. [Express Async Await](./express_async_await/ReadMe.md)
 7. [Knex Aggregation](./knex-aggregates/ReadMe.md)
+8. [Knex Join](./knex-join/ReadMe.md)
