@@ -4,3 +4,4 @@
 2. [Connecting to a Database](./connecting-to-database/ReadMe.md)
 3. [Migrations with Knex](./migration-with-knex/ReadMe.md)
 4. [Seeding data with Knex](./knex-seeding-data/ReadMe.md)
+5. [CRUD Knex](./knex_crud/ReadMe.md)
